@@ -63,9 +63,13 @@ Projeto em HTML, CSS e JS para sorteio automatizado de participantes. Simples, o
 
 <div align="center">
 
-![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<a href="https://github.com/Fabianogf12">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/Fabianogf12">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
