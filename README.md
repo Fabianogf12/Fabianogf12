@@ -30,14 +30,15 @@
 ## 📌 Projetos em Destaque
 
 ### 🗂️ Aging – Acompanhamento de Prazos (Excel + Indicadores)
-Ferramenta criada para organizar pendências internas, acompanhar SLA, aging e reduzir retrabalho.  
-🔗 **Acessar projeto:** *em desenvolvimento — repositório será publicado em breve*
+Ferramenta criada para organizar pendências internas, acompanhar SLA e aging, reduzindo retrabalho.
+🔗 Acessar projeto: *repositório será publicado em breve*
 
 ---
 
 ### 🛒 Modelo Lógico – Ecommerce  
 Modelagem de banco com entidades, relacionamento e regras de negócio. Ideal para estudos de SQL e estrutura de dados.  
-🔗 **Acessar projeto:** https://github.com/Fabianogf12/modelo-logico-ecommerce-
+🔗 **Acessar projeto:** [https://github.com/Fabianogf12/modelo-logico-ecommerce-](https://github.com/Fabianogf12/modelo-logico-ecommerce
+)
 
 ---
 
@@ -59,9 +60,15 @@ Projeto em HTML, CSS e JS para sorteio automatizado de participantes. Simples, o
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![Fabiano GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fabianogf12&theme=tokyonight)
 
-![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabianogf12&theme=tokyonight&show_icons=true&rank_icon=github)
+<div align="center">
+
+![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
 
 
 
@@ -69,6 +76,6 @@ Projeto em HTML, CSS e JS para sorteio automatizado de participantes. Simples, o
 
 ## 📬 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-ferreira-767100229/)
+🔗 [LinkedIn](https://www.linkedin.com/in/fabiano-ferreira-767100229)
 
 
