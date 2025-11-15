@@ -8,12 +8,18 @@
 ---
 
 ## 🔧 Tecnologias e Ferramentas que estou estudando:
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 - SQL (MySQL)
 - Power BI
 - Excel Avançado
 - Python (iniciante)
 - Azure Machine Learning (iniciante)
 - Git & GitHub
+
 
 ---
 
