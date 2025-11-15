@@ -67,5 +67,6 @@ Página simples em HTML, CSS e JS para sorteio automatizado de participantes.
 
 ## 📬 Entre em Contato
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/fabiano-ferreira-767100229/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-ferreira-787100229/)
+
 
