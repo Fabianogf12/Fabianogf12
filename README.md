@@ -50,7 +50,6 @@ Página simples em HTML, CSS e JS para sorteio automatizado de participantes.
 
 ---
 
-
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
 
@@ -59,6 +58,7 @@ Página simples em HTML, CSS e JS para sorteio automatizado de participantes.
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
 
 
 
