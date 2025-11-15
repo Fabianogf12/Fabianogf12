@@ -26,19 +26,25 @@
 
 ---
 
-## 🚀 Projetos em Destaque
 
-### 📌 Aging – Acompanhamento de Prazos (Excel + Indicadores)
-Ferramenta criada para organizar pendências, visualizar SLA e reduzir retrabalho.  
-🔗 [Acessar projeto](https://github.com/Fabianogf12/seu-repo-aging)
+## 📌 Projetos em Destaque
 
-### 🛍️ Modelo Lógico – Ecommerce
-Modelagem de banco com entidades, relacionamentos e regras.  
-🔗 [Acessar projeto](https://github.com/Fabianogf12/modelo-logico-ecommerce)
+### 🗂️ Aging – Acompanhamento de Prazos (Excel + Indicadores)
+Ferramenta criada para organizar pendências internas, acompanhar SLA, aging e reduzir retrabalho.  
+🔗 **Acessar projeto:** *em desenvolvimento — repositório será publicado em breve*
 
-### 🎲 Amigo Oculto – Página Web
-Projeto com HTML, CSS e JS para sorteio automático de participantes.  
-🔗 [Acessar projeto](https://github.com/Fabianogf12/projeto-amigo-oculto)
+---
+
+### 🛒 Modelo Lógico – Ecommerce  
+Modelagem de banco com entidades, relacionamento e regras de negócio. Ideal para estudos de SQL e estrutura de dados.  
+🔗 **Acessar projeto:** https://github.com/Fabianogf12/modelo-logico-ecommerce-
+
+---
+
+### 🎁 Amigo Oculto – Página Web  
+Projeto em HTML, CSS e JS para sorteio automatizado de participantes. Simples, organizado e ideal para iniciantes.  
+🔗 **Acessar projeto:** https://github.com/Fabianogf12/projeto-amigo-oculto
+
 
 
 ---
