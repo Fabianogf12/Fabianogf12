@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Fabiano Ferreira  
 
-📊 **Transição para Dados & BI | Analista de Sistemas em formação**  
-🎯 Focado em SQL, Excel, Power BI e projetos práticos  
-💼 +10 anos de experiência corporativa (TIM Brasil)  
-📈 Construindo projetos reais para evoluir no mundo dos dados
+🎯 Analista de Sistemas em formação  
+📊 Focado em SQL, Power BI, Excel e projetos reais de Analytics  
+💼 +10 anos de experiência corporativa  
+🚀 Em transição para Dados & BI  
 
 ---
 
@@ -26,14 +26,19 @@
 ---
 
 ## 🚀 Projetos em Destaque
+
 ### 📌 Aging – Acompanhamento de Prazos (Excel + Indicadores)
-Projeto real criado para organizar pendências, melhorar visibilidade do SLA e reduzir retrabalho.
+Ferramenta criada para organizar pendências, visualizar SLA e reduzir retrabalho.  
+🔗 [Acessar projeto](https://github.com/Fabianogf12/seu-repo-aging)
 
-### 📌 Modelo Lógico – Ecommerce
-Modelagem de banco com entidades, relacionamentos e regras de negócio.
+### 🛍️ Modelo Lógico – Ecommerce
+Modelagem de banco com entidades, relacionamentos e regras.  
+🔗 [Acessar projeto](https://github.com/Fabianogf12/modelo-logico-ecommerce)
 
-### 📌 Amigo Oculto – Página Web
-Projeto simples feito com HTML, CSS e JS para gerar sorteio automático.
+### 🎲 Amigo Oculto – Página Web
+Projeto com HTML, CSS e JS para sorteio automático de participantes.  
+🔗 [Acessar projeto](https://github.com/Fabianogf12/projeto-amigo-oculto)
+
 
 ---
 
@@ -42,8 +47,20 @@ Projeto simples feito com HTML, CSS e JS para gerar sorteio automático.
 - SQL (consultas básicas ao intermediário)  
 - Power BI (dashboards básicos)  
 
+
 ---
 
-## 📫 Como me encontrar:
-[LinkedIn](https://www.linkedin.com/in/fabiano-ferreira-767100229/)
+## 📊 Minhas Estatísticas do GitHub
+
+![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=tokyonight)
+
+
+---
+
+## 📬 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-ferreira-767100229/)
+
 
