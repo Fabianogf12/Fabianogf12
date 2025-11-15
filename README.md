@@ -62,7 +62,6 @@ Página simples em HTML, CSS e JS para sorteio automatizado de participantes.
 
 
 
-
 ---
 
 ## 📬 Entre em Contato
