@@ -58,8 +58,7 @@ Projeto em HTML, CSS e JS para sorteio automatizado de participantes. Simples, o
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
 
@@ -68,6 +67,7 @@ Projeto em HTML, CSS e JS para sorteio automatizado de participantes. Simples, o
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
+
 
 
 
