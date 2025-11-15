@@ -55,11 +55,12 @@ Página simples em HTML, CSS e JS para sorteio automatizado de participantes.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
 
 
 ---
