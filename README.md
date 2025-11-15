@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Tecnologias e Ferramentas que estou estudando:
+## 🛠️ Tecnologias e Ferramentas que estou estudando:
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -21,6 +21,7 @@
 - Python (iniciante)
 - Azure Machine Learning (iniciante)
 - Git & GitHub
+
 
 
 ---
@@ -52,9 +53,10 @@ Projeto com HTML, CSS e JS para sorteio automático de participantes.
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabianogf12&show_icons=true&theme=tokyonight)
+![Fabiano GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fabianogf12&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianogf12&layout=compact&theme=tokyonight)
+![Fabiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabianogf12&theme=tokyonight&show_icons=true&rank_icon=github)
+
 
 
 ---
