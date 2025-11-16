@@ -1,5 +1,5 @@
 # 🚀 Fabiano Ferreira  
-### Portfólio Profissional em Dados, Automação & Inteligência Operacional
+### Portfólio Profissional • Dados | Automação | Operações
 
 > 🔹 Faço a ponte entre operação e dados.  
 > 🔹 Transformo rotinas em processos inteligentes.  
@@ -11,7 +11,7 @@
 
 Atuo no **Backoffice Jurídico e Operacional (JEC)**, trabalhando com montagem de dossiês, análise sistêmica, conferências operacionais, **tratativa de causa raiz** e suporte direto ao jurídico.
 
-Nos últimos meses, venho recebendo oportunidades para atuar além da minha função, criando melhorias que ajudam na eficiência da operação:
+Nos últimos meses, venho atuando além da minha função principal, criando melhorias que aumentam a eficiência, organização e clareza operacional.
 
 - criação de planilhas inteligentes  
 - automatização de rotinas com Excel e e-mail  
@@ -43,7 +43,7 @@ Minha meta é evoluir profissionalmente **entregando valor imediato** no setor o
 
 | Área | Experiência |
 |------|-------------|
-| **Excel (Intermediário)** | Dashboards, análises, automações simples, estruturação |
+| **Excel (Intermediário)** | Dashboards, análise de dados, tabelas estruturadas e automações simples|
 | **Power BI** | Modelagem simples, KPIs, visuais principais, DAX inicial |
 | **SQL (MySQL)** | SELECT, JOINs, filtros, modelagem lógica |
 | **Python** | Automação simples de scripts operacionais |
@@ -64,7 +64,8 @@ Ferramenta criada para apoiar a gestão da operação, trazendo mais clareza, ag
 - distribuição organizada  
 - destaque automático por criticidade  
 - organização da fila operacional  
-- base pronta para BI e automação  
+- base pronta para BI e automação
+- Base ideal para automações futuras, Power BI e integrações com Python.
 
 📌 *Projeto será publicado em breve.*
 
@@ -105,7 +106,7 @@ https://github.com/Fabianogf12/modelo-logico-ecommerce
 ## 🧩 Meu Jeito de Trabalhar
 
 - ✔ Olhar atento ao detalhe  
-- ✔ Documentação limpa  
+- ✔ Documentação clara
 - ✔ Foco em eficiência  
 - ✔ Mentalidade analítica  
 - ✔ Comunicação objetiva  
@@ -119,4 +120,4 @@ https://github.com/Fabianogf12/modelo-logico-ecommerce
 🔗 **LinkedIn:** https://www.linkedin.com/in/fabiano-ferreira-787102029  
 🔗 **GitHub:** https://github.com/Fabianogf12  
 
-> *Portfólio em evolução contínua. Novos projetos, automações e dashboards serão adicionados constantemente.*
+> *Portfólio em evolução contínua. Novos projetos, automações e dashboards serão adicionados regularmente.*
