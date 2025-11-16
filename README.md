@@ -67,7 +67,7 @@ Meu foco é evoluir profissionalmente entregando valor imediato ao setor onde at
 
 ### 🔵 1. Aging – Indicadores Operacionais (Excel)
 
-Ferramenta criada por iniciativa própria para dar clareza aos prazos, volumes e criticidades do setor.
+Ferramenta criada para apoiar a gestão da operação, trazendo mais clareza, agilidade e redução de retrabalho.
 
 **Resultados obtidos:**
 - visão real de aging  
