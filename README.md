@@ -1,141 +1,122 @@
-<div align="center">
-
 # 🚀 Fabiano Ferreira  
 ### Portfólio Profissional em Dados, Automação & Inteligência Operacional
 
-</div>
+> 🔹 Faço a ponte entre operação e dados.  
+> 🔹 Transformo rotinas em processos inteligentes.  
+> 🔹 Uso análise e automação para facilitar o trabalho das equipes.
 
 ---
 
-<div align="center">
+## 📌 Sobre Mim
 
-🧩 *Faço a ponte entre operação e dados.*  
-⚙️ *Transformo rotinas em processos inteligentes.*  
-📊 *Uso análise e automação para facilitar o trabalho das equipes.*  
+Atuo no **Backoffice Jurídico e Operacional (JEC)**, trabalhando com montagem de dossiês, análise sistêmica, conferências operacionais, **tratativa de causa raiz** e suporte direto ao jurídico.
 
-</div>
+Nos últimos meses, venho recebendo oportunidades para atuar além da minha função, criando melhorias que ajudam na eficiência da operação:
 
----
-
-## 👨‍💼 Sobre Mim
-
-Atuo no **Backoffice Jurídico e Operacional (JEC) da TIM**, trabalhando com **montagem de dossiês, análise sistêmica, conferências operacionais, tratativa de causa raiz e suporte ao jurídico**.
-
-Nos últimos meses, venho recebendo oportunidades crescentes para:
-
-- criar **planilhas inteligentes**  
-- **automatizar rotinas** com Excel + e-mail  
-- estruturar controles operacionais  
-- organizar indicadores de acompanhamento  
+- criação de planilhas inteligentes  
+- automatização de rotinas com Excel e e-mail  
+- dashboards e indicadores operacionais  
+- organização de dados e acompanhamento  
 - dar mais clareza aos fluxos internos  
 
-Essa abertura me permitiu aplicar, na prática, tudo o que venho estudando na área de Dados.
+Estou construindo minha transição para Dados / BI **na prática**, aplicando o que estudo no dia a dia por meio de automações, análises e estruturação operacional.
 
-Atuo no Backoffice Jurídico e Operacional (JEC), entregando melhorias internas, automatizações e inteligência operacional. Caminho para Dados/BI aplicando, no dia a dia, soluções reais que reduzem retrabalho e aumentam eficiência.
-
-Meu foco é evoluir profissionalmente entregando valor imediato ao setor onde atuo.
+Minha meta é evoluir profissionalmente **entregando valor imediato** no setor onde atuo.
 
 ---
 
-## 💡 Meu Diferencial
+## 🌟 Meu Diferencial
 
-✔ Profissional técnico + humano  
-✔ Forte capacidade analítica  
-✔ Clareza na documentação  
-✔ Organização e visão de processo  
-✔ Execução rápida e consistente  
-✔ Entrego mais do que me pedem  
-✔ Aprendo e aplico no mesmo dia  
-✔ Evolução contínua (estudo diário)  
+- ✔ Profissional técnico + humano  
+- ✔ Visão analítica e capacidade crítica  
+- ✔ Criação de documentação limpa  
+- ✔ Organização e visão de processo  
+- ✔ Entrega contínua e consistente  
+- ✔ Comunicação clara e objetiva  
+- ✔ Foco em resolver o problema  
+- ✔ Rápida adaptação  
+- ✔ Evolução diária (estudo contínuo)
 
 ---
 
-## 🛠️ Competências Técnicas
+## 🧠 Competências Técnicas
 
 | Área | Experiência |
 |------|-------------|
-| **Excel Intermediário** | Dashboards, aging, condicionais, estruturação |
-| **Power BI** | Modelagem simples, KPIs, visuais profissionais, DAX inicial |
+| **Excel (Intermediário)** | Dashboards, análises, automações simples, estruturação |
+| **Power BI** | Modelagem simples, KPIs, visuais principais, DAX inicial |
 | **SQL (MySQL)** | SELECT, JOINs, filtros, modelagem lógica |
-| **Python** | Automação simples e scripts operacionais |
-| **Git & GitHub** | Versionamento, organização e documentação |
-| **Operações** | Dossiês, jurídico, conferências, análise sistêmica, prazos |
+| **Python** | Automação simples de scripts operacionais |
+| **Git & GitHub** | Organização de projetos e documentação |
+| **Operações** | Backoffice jurídico, conferências, análise sistêmica, prazos |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🎯 Projetos em Destaque
 
-### 🔵 1. Aging – Indicadores Operacionais (Excel)
-
+### **1. Aging – Indicadores Operacionais (Excel)**  
 Ferramenta criada para apoiar a gestão da operação, trazendo mais clareza, agilidade e redução de retrabalho.
 
-**Resultados obtidos:**
+**Resultados alcançados:**
 - visão real de aging  
 - redução de inconsistências  
+- clareza por tipo e grupo  
+- distribuição organizada  
 - destaque automático por criticidade  
-- organização do fluxo operacional  
-- base para futura automação e BI  
+- organização da fila operacional  
+- base pronta para BI e automação  
 
-📌 *Versão pública será disponibilizada em breve.*
+📌 *Projeto será publicado em breve.*
 
 ---
 
-### 🟩 2. Modelo Lógico – E-commerce (MySQL Workbench)
-
-Projeto de modelagem de dados com documentação completa, GIF demonstrativo e arquivo editável.
+### **2. Modelo Lógico — E-commerce (MySQL Workbench)**  
+Modelagem de banco com entidades, relacionamentos e regras de negócio.  
+Ideal para estudos de SQL e boas práticas de estruturação.
 
 🔗 Repositório:  
 https://github.com/Fabianogf12/modelo-logico-ecommerce
 
 ---
 
-### 🟧 3. Amigo Oculto (HTML, CSS, JS)
+## 🔨 Projetos em Construção
 
-Projeto simples para praticar lógica e fundamentos de programação.
-
-🔗 Repositório:  
-https://github.com/Fabianogf12/projeto-amigo-oculto
-
----
-
-## 🏗️ Projetos em Construção
-
-### 📊 Dashboard Aging (Power BI)
+### 📊 **Dashboard Aging (Power BI)**
 - KPIs reais da operação  
-- visão crítica por agente / tipo  
-- tendência e distribuição  
+- visão crítica por grupo/tipo  
+- tendências e distribuição  
 
-### ⚙️ Automação de Rotinas (Python + Excel)
+### 🤖 **Automação de Rotinas (Python + Excel)**
 - padronização  
 - redução de trabalho manual  
-- e-mails automáticos  
+- envios automáticos  
 
 ---
 
-## 📚 Formação & Estudos
+## 🎓 Formação & Estudos
 
 - Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**  
-- DIO – *Introdução à Análise de Dados*  
-- Google + CIEE – *Data Science e IA*  
-- Cursos complementares de SQL, Power BI, Python e Git
+- DIO — Introdução à Análise de Dados  
+- Google + CIEE — Data Science e IA  
+- Cursos complementares: SQL, Power BI, Python e Git  
 
 ---
 
-## 🧭 Meu Jeito de Trabalhar
+## 🧩 Meu Jeito de Trabalhar
 
-✔ Clareza acima de tudo  
-✔ Documentação limpa  
-✔ Foco em eficiência  
-✔ Mentalidade analítica  
-✔ Comunicação simples e objetiva  
-✔ Ação rápida + evolução contínua  
+- ✔ Olhar atento ao detalhe  
+- ✔ Documentação limpa  
+- ✔ Foco em eficiência  
+- ✔ Mentalidade analítica  
+- ✔ Comunicação objetiva  
+- ✔ Aprendiz rápido  
+- ✔ Evolução contínua  
 
 ---
 
-## 📫 Contato
+## 📞 Contato
 
-📌 **LinkedIn:** https://www.linkedin.com/in/fabiano-ferreira-767100229  
-📌 **GitHub:** https://github.com/Fabianogf12  
+🔗 **LinkedIn:** https://www.linkedin.com/in/fabiano-ferreira-787102029  
+🔗 **GitHub:** https://github.com/Fabianogf12  
 
-> *Portfólio em evolução contínua. Novos projetos, automações e dashboards serão adicionados semanalmente.*  
-
+> *Portfólio em evolução contínua. Novos projetos, automações e dashboards serão adicionados constantemente.*
