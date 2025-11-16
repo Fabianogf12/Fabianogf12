@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fabianogf12/Fabianogf12/main/Baner%20perfil.png" alt="Banner do Portfólio" />
+  <img src="https://raw.githubusercontent.com/Fabianogf12/Fabianogf12/main/Baner%20perfil.png" alt="Baner Perfil" />
 </p>
 
 
