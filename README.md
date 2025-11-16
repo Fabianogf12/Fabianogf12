@@ -57,45 +57,88 @@ Minha meta é evoluir profissionalmente **entregando valor imediato** no setor o
 
 ---
 
-## 🎯 Projetos em Destaque
+---
 
-### **1. Aging – Indicadores Operacionais (Excel)**  
-Ferramenta criada para apoiar a gestão da operação, trazendo mais clareza, agilidade e redução de retrabalho.
+## 🚀 Projetos do Portfólio
 
-**Resultados alcançados:**
-- visão real de aging  
-- redução de inconsistências  
-- clareza por tipo e grupo  
-- distribuição organizada  
-- destaque automático por criticidade  
-- organização da fila operacional  
-- base pronta para BI e automação
-- Base ideal para automações futuras, Power BI e integrações com Python.
-
-📌 *Projeto será publicado em breve.*
+Abaixo estão os projetos que já desenvolvi e aqueles que estou construindo para consolidar minha transição para a área de Dados, BI e Automação Operacional.
 
 ---
 
-### **2. Modelo Lógico — E-commerce (MySQL Workbench)**  
-Modelagem de banco com entidades, relacionamentos e regras de negócio.  
-Ideal para estudos de SQL e boas práticas de estruturação.
+# ✅ PROJETOS CONCLUÍDOS
 
-🔗 Repositório:  
-https://github.com/Fabianogf12/modelo-logico-ecommerce
+### 📊 1. Aging — Indicadores Operacionais (Excel + Dados)
+Ferramenta criada para organizar, padronizar e analisar indicadores de aging, trazendo mais clareza e eficiência para a operação.  
+**Status:** Concluído  
+➡️ Repositório: https://github.com/Fabianogf12/aging-operacional
 
 ---
 
-## 🔨 Projetos em Construção
+### 🛒 2. Modelo Lógico — E-commerce (SQL / MySQL Workbench)
+Modelagem completa com entidades, relacionamentos e regras de negócio.  
+**Status:** Concluído  
+➡️ Repositório: https://github.com/Fabianogf12/modelo-logico-ecommerce
 
-### 📊 **Dashboard Aging (Power BI)**
-- KPIs reais da operação  
-- visão crítica por grupo/tipo  
-- tendências e distribuição  
+---
 
-### 🤖 **Automação de Rotinas (Python + Excel)**
-- padronização  
-- redução de trabalho manual  
-- envios automáticos  
+# 🏗️ PROJETOS EM DESENVOLVIMENTO
+
+### 📊 3. Dashboard Aging 2.0 — Power BI
+Evolução da planilha de aging, transformando indicadores em um painel visual com insights, tendência, criticidade e KPIs inteligentes.  
+**Status:** Em desenvolvimento  
+➡️ Repositório: (a criar)
+
+---
+
+### 🤖 4. Automação de Conferências Operacionais — Python + Excel
+Automação para padronizar e agilizar conferências operacionais (status, inconsistências, cruzamento de dados).  
+**Status:** Em desenvolvimento  
+➡️ Repositório: (a criar)
+
+---
+
+### 🧵 5. Pipeline Operacional de Dados — ETL Simples (Python)
+Pipeline completo com ingestão, limpeza, transformação e exportação para dashboards.  
+**Status:** Em desenvolvimento  
+➡️ Repositório: (a criar)
+
+---
+
+# 🎯 PROJETOS PLANEJADOS (OS QUE VÃO ME COLOCAR NO 99,9% DAS VAGAS JR)
+
+### 🗄️ 6. Banco de Dados Operacional — SQL (MySQL)
+Tabelas baseadas no mundo real (aging, dossiês, chamados, prazos).  
+**Objetivo:** criar base sólida para dashboards, automações e análises.  
+**Status:** Planejado  
+➡️ Repositório: (a criar)
+
+---
+
+### 📬 7. Automação de E-mails Operacionais — Python
+Envio automático de follow-ups, indicadores e alertas operacionais.  
+**Objetivo:** reduzir retrabalho e aumentar eficiência da operação.  
+**Status:** Planejado  
+➡️ Repositório: (a criar)
+
+---
+
+### 🔎 8. Classificador de Ocorrências — Machine Learning
+Modelo que identifica automaticamente o tipo de caso usando texto.  
+**Objetivo:** praticar NLP, ML e inteligência aplicada ao contexto JEC.  
+**Status:** Planejado  
+➡️ Tecnologias: Python, Scikit-Learn, NLP  
+➡️ Repositório: (a criar)
+
+---
+
+### 🧠 9. Data Analysis Hands-on — SQL, Python e BI
+Repositório contínuo de exercícios, desafios e mini-projetos de estudo.  
+**Objetivo:** manter evolução constante na área de dados.  
+**Status:** Planejado  
+➡️ Repositório: (a criar)
+
+---
+
 
 ---
 
