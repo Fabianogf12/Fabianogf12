@@ -70,7 +70,7 @@ Abaixo estão os projetos que já desenvolvi e aqueles que estou construindo par
 ### 📊 1. Aging — Indicadores Operacionais (Excel + Dados)
 Ferramenta criada para organizar, padronizar e analisar indicadores de aging, trazendo mais clareza e eficiência para a operação.  
 **Status:** Concluído  
-➡️ Repositório: https://github.com/Fabianogf12/aging-operacional
+➡️ Repositório: [https://github.com/Fabianogf12/aging-operacional](https://github.com/Fabianogf12/aging-indicadores-operacionais.git)
 
 ---
 
