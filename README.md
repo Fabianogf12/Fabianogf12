@@ -110,11 +110,6 @@ https://github.com/Fabianogf12/projeto-amigo-oculto
 - redução de trabalho manual  
 - e-mails automáticos  
 
-### 🧹 Double-Check de Dossiês
-- padronização  
-- diminuição de devoluções internas  
-- aumento da qualidade  
-
 ---
 
 ## 📚 Formação & Estudos
