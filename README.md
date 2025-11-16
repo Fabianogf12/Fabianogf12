@@ -104,7 +104,7 @@ Pipeline completo com ingestão, limpeza, transformação e exportação para da
 
 ---
 
-# 🎯 PROJETOS PLANEJADOS (OS QUE VÃO ME COLOCAR NO 99,9% DAS VAGAS JR)
+# 🎯 PROJETOS PLANEJADOS
 
 ### 🗄️ 6. Banco de Dados Operacional — SQL (MySQL)
 Tabelas baseadas no mundo real (aging, dossiês, chamados, prazos).  
