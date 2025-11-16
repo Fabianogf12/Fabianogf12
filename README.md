@@ -54,7 +54,7 @@ Meu foco é evoluir profissionalmente entregando valor imediato ao setor onde at
 
 | Área | Experiência |
 |------|-------------|
-| **Excel Avançado** | Dashboards, aging, condicionais, estruturação |
+| **Excel Intermediário** | Dashboards, aging, condicionais, estruturação |
 | **Power BI** | Modelagem simples, KPIs, visuais profissionais, DAX inicial |
 | **SQL (MySQL)** | SELECT, JOINs, filtros, modelagem lógica |
 | **Python** | Automação simples e scripts operacionais |
