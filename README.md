@@ -19,7 +19,7 @@
 
 ## 👨‍💼 Sobre Mim
 
-Atuo no **Backoffice Jurídico e Operacional (JEC) da TIM**, trabalhando com **montagem de dossiês, análise sistêmica, conferências operacionais e suporte ao jurídico**.
+Atuo no **Backoffice Jurídico e Operacional (JEC) da TIM**, trabalhando com **montagem de dossiês, análise sistêmica, conferências operacionais, tratativa de causa raiz e suporte ao jurídico**.
 
 Nos últimos meses, venho recebendo oportunidades crescentes para:
 
@@ -31,7 +31,7 @@ Nos últimos meses, venho recebendo oportunidades crescentes para:
 
 Essa abertura me permitiu aplicar, na prática, tudo o que venho estudando na área de Dados.
 
-Estou em **transição avançada para Dados / BI**, trazendo melhorias reais para o time através de **automação, organização, análise e eficiência operacional**.
+Atuo no Backoffice Jurídico e Operacional (JEC), entregando melhorias internas, automatizações e inteligência operacional. Caminho para Dados/BI aplicando, no dia a dia, soluções reais que reduzem retrabalho e aumentam eficiência.
 
 Meu foco é evoluir profissionalmente entregando valor imediato ao setor onde atuo.
 
