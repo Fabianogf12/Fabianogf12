@@ -152,6 +152,10 @@ Repositório contínuo de exercícios, desafios e mini-projetos de estudo.
 
 ## 🎓 Formação & Estudos
 
+## Formação & Estudos
+
+---
+
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) — Celso Lisboa  
 **Status:** Em andamento  
 
@@ -179,6 +183,7 @@ Excel Avançado → SQL → Power BI → Projetos Reais
 
 ### Cursos Complementares  
 SQL • Power BI • Python • Git
+
 
 
 
