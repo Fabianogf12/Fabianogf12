@@ -152,11 +152,29 @@ Repositório contínuo de exercícios, desafios e mini-projetos de estudo.
 
 ## 🎓 Formação & Estudos
 
-- Tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)**  
-- DIO — Introdução à Análise de Dados  
-- Google + CIEE — Data Science e IA  
-- Cursos complementares: SQL, Power BI, Python e Git  
+Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
 
+Hashtag Treinamentos — Formação Completa em Análise de Dados (em andamento)
+
+Excel Avançado
+
+SQL
+
+Power BI
+
+Projetos Reais
+
+Cursos complementares: SQL, Power BI, Python, Git
+
+DIO — Trilha Especialista SQL (em andamento)
+
+DIO — Trilha Analista de Dados (em andamento)
+
+Google (Coursera)
+
+Technical Support Fundamentals
+
+The Bits and Bytes of Computer Networking
 ---
 
 ## 🧩 Meu Jeito de Trabalhar
