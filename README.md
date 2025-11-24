@@ -152,29 +152,23 @@ Repositório contínuo de exercícios, desafios e mini-projetos de estudo.
 
 ## 🎓 Formação & Estudos
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
+Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) — em andamento
 
-Hashtag Treinamentos — Formação Completa em Análise de Dados (em andamento)
-
-Excel Avançado
-
-SQL
-
-Power BI
-
-Projetos Reais
-
-Cursos complementares: SQL, Power BI, Python, Git
+Hashtag Treinamentos — Trilha Completa de Análise de Dados (Excel Avançado → SQL → Power BI → Projetos Reais)
 
 DIO — Trilha Especialista SQL (em andamento)
 
 DIO — Trilha Analista de Dados (em andamento)
 
-Google (Coursera)
+Google / Coursera
 
 Technical Support Fundamentals
 
 The Bits and Bytes of Computer Networking
+
+Cursos complementares: SQL, Power BI, Python, Git
+
+
 ---
 
 ## 🧩 Meu Jeito de Trabalhar
