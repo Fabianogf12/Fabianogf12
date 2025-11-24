@@ -70,11 +70,19 @@ Abaixo estão os projetos que já desenvolvi e aqueles que estou construindo par
 ### 📊 1. Aging — Indicadores Operacionais (Excel + Dados)
 Ferramenta criada para organizar, padronizar e analisar indicadores de aging, trazendo mais clareza e eficiência para a operação.  
 **Status:** Concluído  
-➡️ Repositório: [https://github.com/Fabianogf12/aging-operacional](https://github.com/Fabianogf12/aging-indicadores-operacionais.git)
+➡️ Repositório: https://github.com/Fabianogf12/aging-operacional
 
 ---
 
-### 🛒 2. Modelo Lógico — E-commerce (SQL / MySQL Workbench)
+### 📈 2. Dashboard de Vendas — Excel + Dados
+
+Análise de vendas, metas e performance usando Excel como ferramenta de Data Analysis.
+**Status:** Concluído
+➡️ Repositório: https://github.com/Fabianogf12/excel-sales-dashboard
+
+---
+
+### 🛒 3. Modelo Lógico — E-commerce (SQL / MySQL Workbench)
 Modelagem completa com entidades, relacionamentos e regras de negócio.  
 **Status:** Concluído  
 ➡️ Repositório: https://github.com/Fabianogf12/modelo-logico-ecommerce
