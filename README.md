@@ -163,6 +163,7 @@ Repositório contínuo de exercícios, desafios e mini-projetos de estudo.
 
 ### Hashtag Treinamentos — Trilha Completa de Análise de Dados  
 Excel Avançado → SQL → Power BI → Projetos Reais  
+
 **Status:** Em andamento  
 
 ---
