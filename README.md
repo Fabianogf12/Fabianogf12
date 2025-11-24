@@ -167,14 +167,6 @@ Excel Avançado → SQL → Power BI → Projetos Reais
 
 ---
 
-### DIO — Trilha Especialista SQL  
-**Status:** Em andamento  
-
-### DIO — Trilha Analista de Dados  
-**Status:** Em andamento  
-
----
-
 ### Google / Coursera  
 **Technical Support Fundamentals** — Concluído  
 **The Bits and Bytes of Computer Networking** — Concluído  
