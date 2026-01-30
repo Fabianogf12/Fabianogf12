@@ -4,7 +4,7 @@
 
 
 # 🚀 Fabiano Ferreira  
-### Portfólio Profissional • Dados | Automação | Operações
+### Portfólio Profissional • Dados | Operações Digitais | KPIs & Automação
 
 > 🔹 Faço a ponte entre operação e dados.  
 > 🔹 Transformo rotinas em processos inteligentes.  
