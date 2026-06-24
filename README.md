@@ -196,7 +196,7 @@ SQL • Power BI • Python • Git
 
 ## 📞 Contato
 
-🔗 **LinkedIn:** www.linkedin.com/in/fabianoferreira-bi
-🔗 **GitHub:** https://github.com/Fabianogf12  
+🔗 **LinkedIn:** www.linkedin.com/in/fabianoferreira-bi  
+🔗 **GitHub:** https://github.com/Fabianogf12
 
 > *Portfólio em evolução contínua. Novos projetos, automações e dashboards serão adicionados regularmente.*
