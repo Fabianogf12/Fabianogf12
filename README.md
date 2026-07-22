@@ -1,202 +1,149 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fabianogf12/Fabianogf12/main/Baner%20Perfil.png" alt="Banner do Portfólio" />
+  <img 
+    src="https://raw.githubusercontent.com/Fabianogf12/Fabianogf12/main/Baner%20Perfil.png" 
+    alt="Portfólio de Fabiano Ferreira em Dados, BI, Inteligência Artificial e Automação"
+  />
 </p>
 
+# Fabiano Ferreira
 
-# 🚀 Fabiano Ferreira  
-### Portfólio Profissional • Dados | Operações Digitais | KPIs & Automação
+### Analista de Operações | Customer Experience | Dados • BI • IA
 
-> 🔹 Faço a ponte entre operação e dados.  
-> 🔹 Transformo rotinas em processos inteligentes.  
-> 🔹 Uso análise e automação para facilitar o trabalho das equipes.
+Profissional com mais de **10 anos de experiência na TIM Brasil**, combinando conhecimento operacional, análise de dados, indicadores, investigação de causa raiz e melhoria contínua de processos.
 
----
+Atualmente, desenvolvo minha especialização em **SQL Server, Power BI, Inteligência Artificial e Automação**, conectando experiência de negócio a soluções orientadas por dados.
 
-## 📌 Sobre Mim
-
-Atuo no **Backoffice Jurídico e Operacional (JEC)**, trabalhando com montagem de dossiês, análise sistêmica, conferências operacionais, **tratativa de causa raiz** e suporte direto ao jurídico.
-
-Nos últimos meses, venho atuando além da minha função principal, criando melhorias que aumentam a eficiência, organização e clareza operacional.
-
-- criação de planilhas inteligentes  
-- automatização de rotinas com Excel e e-mail  
-- dashboards e indicadores operacionais  
-- organização de dados e acompanhamento  
-- dar mais clareza aos fluxos internos  
-
-Estou construindo minha transição para Dados / BI **na prática**, aplicando o que estudo no dia a dia por meio de automações, análises e estruturação operacional.
-
-Minha meta é evoluir profissionalmente **entregando valor imediato** no setor onde atuo.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiano_Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianoferreira-bi)
+[![GitHub](https://img.shields.io/badge/GitHub-Fabianogf12-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fabianogf12)
 
 ---
 
-## 🌟 Meu Diferencial
+## 👨‍💻 Sobre mim
 
-- ✔ Profissional técnico + humano  
-- ✔ Visão analítica e capacidade crítica  
-- ✔ Criação de documentação limpa  
-- ✔ Organização e visão de processo  
-- ✔ Entrega contínua e consistente  
-- ✔ Comunicação clara e objetiva  
-- ✔ Foco em resolver o problema  
-- ✔ Rápida adaptação  
-- ✔ Evolução diária (estudo contínuo)
+Atuo na área de **Customer Experience e Operações da TIM Brasil**, atualmente em backoffice jurídico, com foco no cumprimento de demandas, análise sistêmica e acompanhamento de prazos.
 
----
+Minha rotina profissional envolve:
 
-## 🧠 Competências Técnicas
+- análise e tratamento de demandas complexas;
+- investigação de inconsistências e causas raiz;
+- cruzamento e validação de informações;
+- acompanhamento de SLA, aging e prazos operacionais;
+- elaboração de registros, dossiês e documentação;
+- interação com áreas internas para resolução de problemas;
+- organização de dados e controles de acompanhamento;
+- identificação de oportunidades de melhoria.
 
-| Área | Experiência |
-|------|-------------|
-| **Excel (Intermediário)** | Dashboards, análise de dados, tabelas estruturadas e automações simples|
-| **Power BI** | Modelagem simples, KPIs, visuais principais, DAX inicial |
-| **SQL (MySQL)** | SELECT, JOINs, filtros, modelagem lógica |
-| **Python** | Automação simples de scripts operacionais |
-| **Git & GitHub** | Organização de projetos e documentação |
-| **Operações** | Backoffice jurídico, conferências, análise sistêmica, prazos |
+Minha experiência me permite compreender os problemas antes de escolher a tecnologia. Por isso, direciono meus estudos e projetos para a aplicação prática de **Dados, Business Intelligence, Inteligência Artificial e Automação** em cenários operacionais reais.
 
 ---
 
----
+## 🛠️ Competências
 
-## 🚀 Projetos do Portfólio
-
-Abaixo estão os projetos que já desenvolvi e aqueles que estou construindo para consolidar minha transição para a área de Dados, BI e Automação Operacional.
-
----
-
-# ✅ PROJETOS CONCLUÍDOS
-
-### 📊 1. Aging — Indicadores Operacionais (Excel + Dados)
-Ferramenta criada para organizar, padronizar e analisar indicadores de aging, trazendo mais clareza e eficiência para a operação.  
-**Status:** Concluído  
-➡️ Repositório: [https://github.com/Fabianogf12/aging-operacional](https://github.com/Fabianogf12/aging-indicadores-operacionais.git)
+| Área | Conhecimentos |
+|---|---|
+| **Operações e CX** | Análise de demandas, causa raiz, SLA, aging, documentação e melhoria de processos |
+| **Excel** | Tabelas estruturadas, fórmulas, análise de dados, dashboards e controles operacionais |
+| **Power BI** | Tratamento de dados, modelagem básica, KPIs, visualizações e DAX inicial |
+| **SQL** | SELECT, filtros, ordenação, agregações, JOINs e modelagem relacional |
+| **SQL Server** | Ambiente de estudos e desenvolvimento de consultas em T-SQL |
+| **Python** | Fundamentos, manipulação de dados e automações simples |
+| **Inteligência Artificial** | IA generativa, engenharia de prompts e aplicação de IA em tarefas profissionais |
+| **Git e GitHub** | Versionamento, organização de repositórios e documentação de projetos |
 
 ---
 
-### 📈 2. Dashboard de Vendas — Excel + Dados
+## 🚀 Projetos em destaque
 
-Análise de vendas, metas e performance usando Excel como ferramenta de Data Analysis.
-**Status:** Concluído
-➡️ Repositório: https://github.com/Fabianogf12/excel-sales-dashboard
+### 📊 Aging e Indicadores Operacionais
 
----
+Ferramenta desenvolvida em Excel para organizar, classificar e acompanhar demandas por faixa de aging, status e prazo operacional.
 
-### 🛒 3. Modelo Lógico — E-commerce (SQL / MySQL Workbench)
-Modelagem completa com entidades, relacionamentos e regras de negócio.  
-**Status:** Concluído  
-➡️ Repositório: https://github.com/Fabianogf12/modelo-logico-ecommerce
+**Competências aplicadas:** Excel, indicadores, organização de dados e análise operacional.
+
+[🔗 Acessar o projeto](https://github.com/Fabianogf12/aging-indicadores-operacionais)
 
 ---
 
-# 🏗️ PROJETOS EM DESENVOLVIMENTO
+### 📈 Dashboard Comercial em Excel
 
-### 📊 3. Dashboard Aging 2.0 — Power BI
-Evolução da planilha de aging, transformando indicadores em um painel visual com insights, tendência, criticidade e KPIs inteligentes.  
-**Status:** Em desenvolvimento  
-➡️ Repositório: (a criar)
+Dashboard para acompanhamento de vendas, metas e desempenho comercial, desenvolvido com foco na transformação de dados em informações úteis para tomada de decisão.
 
----
+**Competências aplicadas:** Excel, análise de dados, KPIs e visualização de informações.
 
-### 🤖 4. Automação de Conferências Operacionais — Python + Excel
-Automação para padronizar e agilizar conferências operacionais (status, inconsistências, cruzamento de dados).  
-**Status:** Em desenvolvimento  
-➡️ Repositório: (a criar)
+[🔗 Acessar o projeto](https://github.com/Fabianogf12/excel-sales-dashboard)
 
 ---
 
-### 🧵 5. Pipeline Operacional de Dados — ETL Simples (Python)
-Pipeline completo com ingestão, limpeza, transformação e exportação para dashboards.  
-**Status:** Em desenvolvimento  
-➡️ Repositório: (a criar)
+### 🛒 Modelagem de Banco de Dados para E-commerce
+
+Projeto de modelagem lógica de um banco de dados para e-commerce, contemplando entidades, atributos, relacionamentos e regras de negócio.
+
+**Competências aplicadas:** modelagem relacional, banco de dados, SQL e MySQL Workbench.
+
+[🔗 Acessar o projeto](https://github.com/Fabianogf12/modelo-logico-ecommerce)
 
 ---
 
-# 🎯 PROJETOS PLANEJADOS
+### 🧠 Laboratório de IA com Azure
 
-### 🗄️ 6. Banco de Dados Operacional — SQL (MySQL)
-Tabelas baseadas no mundo real (aging, dossiês, chamados, prazos).  
-**Objetivo:** criar base sólida para dashboards, automações e análises.  
-**Status:** Planejado  
-➡️ Repositório: (a criar)
+Documentação de atividades práticas realizadas com os serviços Azure Speech Studio e Language Studio, explorando recursos de inteligência artificial voltados para fala e linguagem natural.
 
----
+**Competências aplicadas:** Azure AI, processamento de linguagem natural, reconhecimento de fala e documentação técnica.
 
-### 📬 7. Automação de E-mails Operacionais — Python
-Envio automático de follow-ups, indicadores e alertas operacionais.  
-**Objetivo:** reduzir retrabalho e aumentar eficiência da operação.  
-**Status:** Planejado  
-➡️ Repositório: (a criar)
+[🔗 Acessar o projeto](https://github.com/Fabianogf12/azure-ai-speech-language-lab)
 
 ---
 
-### 🔎 8. Classificador de Ocorrências — Machine Learning
-Modelo que identifica automaticamente o tipo de caso usando texto.  
-**Objetivo:** praticar NLP, ML e inteligência aplicada ao contexto JEC.  
-**Status:** Planejado  
-➡️ Tecnologias: Python, Scikit-Learn, NLP  
-➡️ Repositório: (a criar)
+## 📚 Foco atual de desenvolvimento
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+- **SQL Server e T-SQL** para consultas, tratamento e análise de dados;
+- **Power BI** para criação de dashboards e indicadores;
+- **Power Platform** para automação de processos corporativos;
+- **Python** para manipulação de dados e automações;
+- **Inteligência Artificial aplicada aos negócios**;
+- integração entre dados, operações e tomada de decisão.
+
+Meu próximo projeto será uma solução integrada para acompanhamento de **SLA e aging**, utilizando banco de dados, indicadores e visualização analítica.
 
 ---
 
-### 🧠 9. Data Analysis Hands-on — SQL, Python e BI
-Repositório contínuo de exercícios, desafios e mini-projetos de estudo.  
-**Objetivo:** manter evolução constante na área de dados.  
-**Status:** Planejado  
-➡️ Repositório: (a criar)
+## 🎓 Formação
+
+### Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+**Centro Universitário Celso Lisboa**
+
+Graduação em andamento, atualmente na etapa **5 de 6**.
 
 ---
 
+## 🏅 Certificações e estudos
+
+- **Google AI Professional Certificate** — concluído;
+- **Google Data Analytics: Share Data Through the Art of Visualization** — concluído;
+- **Google Technical Support Fundamentals** — concluído;
+- **The Bits and Bytes of Computer Networking — Google** — concluído;
+- **Microsoft Azure AI Fundamentals — AI-900** — formação concluída;
+- **IBM Generative AI: Prompt Engineering Basics** — em andamento;
+- estudos complementares em **SQL, Power BI, Python, Git e análise de dados**.
 
 ---
 
-## 🎓 Formação & Estudos
+## 🎯 Objetivo profissional
 
-## Formação & Estudos
+Atuar na interseção entre **Operações, Dados, BI, Inteligência Artificial e Automação**, desenvolvendo soluções que:
 
----
-
-### Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) — Celso Lisboa  
-**Status:** Em andamento  
-
----
-
-### Hashtag Treinamentos — Trilha Completa de Análise de Dados  
-Excel Avançado → SQL → Power BI → Projetos Reais  
-
-**Status:** Em andamento  
+- aumentem a eficiência operacional;
+- reduzam atividades manuais e retrabalho;
+- ampliem a visibilidade dos indicadores;
+- apoiem decisões orientadas por dados;
+- melhorem a experiência de clientes e equipes.
 
 ---
 
-### Google / Coursera  
-**Technical Support Fundamentals** — Concluído  
-**The Bits and Bytes of Computer Networking** — Concluído  
+## 📫 Contato
 
----
-
-### Cursos Complementares  
-SQL • Power BI • Python • Git
-
-
-
-
----
-
-## 🧩 Meu Jeito de Trabalhar
-
-- ✔ Olhar atento ao detalhe  
-- ✔ Documentação clara
-- ✔ Foco em eficiência  
-- ✔ Mentalidade analítica  
-- ✔ Comunicação objetiva  
-- ✔ Aprendiz rápido  
-- ✔ Evolução contínua  
-
----
-
-## 📞 Contato
-
-🔗 **LinkedIn:** www.linkedin.com/in/fabianoferreira-bi  
-🔗 **GitHub:** https://github.com/Fabianogf12
-
-> *Portfólio em evolução contínua. Novos projetos, automações e dashboards serão adicionados regularmente.*
+- **LinkedIn:** [linkedin.com/in/fabianoferreira-bi](https://www.linkedin.com/in/fabianoferreira-bi)
+- **GitHub:** [github.com/Fabianogf12](https://github.com/Fabianogf12)
